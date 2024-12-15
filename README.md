@@ -23,8 +23,7 @@ ___________
 ![Proyecto](assets/inicio.png)
 
 *Espero trabajemos juntos pronto*
-<!-- Para poner links [https://github.com/ely18mtz/Portafolio-de-Proyectos.git] -->
-https://github.com/ely18mtz/Portafolio-de-Proyectos.git
+
 
 
 Correo 📧:
