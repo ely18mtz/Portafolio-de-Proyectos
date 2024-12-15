@@ -1,0 +1,129 @@
+
+/* Definición de variables de colores */
+:root {
+    --color-primario: #AA5486;
+    --color-secundario: #F72C5B;
+    --color-terciario: #FCFFC1;
+    --backg: #e7d9b4;
+    --color-input: #FFE893;
+    --color-input2: #FF748B;
+    --text-size: 1.5rem;
+    --color-text: #0000;
+}
+
+/* General */
+* {
+    font-family: "Jost", serif;
+}
+
+/* Header */
+header {
+    background-color: #FF8383;
+}
+
+/* Iconos del footer */
+.nav-item i {
+    color: var(--color-input2);
+}
+
+/* Letras debajo de iconos */
+footer p {
+    color: var(--color-input2);
+}
+
+/* Nombre principal */
+h1 {
+    color: black; /* Cambio a color negro */
+}
+
+/* Texto cambiante */
+#app {
+    color: var(--color-secundario);
+}
+
+/* Títulos */
+h2, h3 {
+    color: var(--color-primario);
+}
+
+/* Títulos específicos */
+.habilidades h3 {
+    color: var(--color-primario);
+}
+
+/* Habilidades */
+.habilidades {
+    background-color: var(--color-input);
+}
+
+/* Botones en Proyectos */
+.btn-proyecto {
+    background-color: var(--color-secundario);
+      color:white;
+    border-color: var(--color-secundario);
+}
+
+.btn-proyecto a {
+     color:white;
+    text-decoration: none;
+}
+
+.btn-proyecto:hover {
+    background-color: #b61864; /* Un color más oscuro para hover */
+    border-color: #b61864;
+}
+
+/* Botón de trayectoria */
+.boton-cv {
+    background-color: var( --color-input2);
+    color:white;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 5px;
+    border-color: var( --color-input2);
+   
+}
+
+.boton-cv:hover {
+    background-color:#F9C0AB; /* Color más claro para hover */
+    border-color:var( --color-input2);
+   
+}
+/* Sección testimonios */
+.card-title{
+    text-align: center;
+    margin-top: 18px;
+}
+.card-subtitle{
+    text-align: center;
+}
+.card-body{
+    text-align: justify;
+    font-size: 16px;
+
+}
+/* Sección de Contáctame */
+#contacto {
+    background-color: var(--color-terciario);
+}
+
+#btn-contacto {
+    background-color: var(--color-secundario);
+       color:white;
+}
+
+#btn-contacto:hover {
+    background-color: #761549;
+      color:white;
+}
+
+/* Navegación */
+.nav-link {
+    color: white;
+    transition: color 0.3s, text-shadow 0.3s;
+}
+
+.nav-link:hover {
+    color: #9d628c; /* Color iluminado */
+    text-shadow: 0 0 10px #eca9c9, 0 0 20px #cb77c5; /* Efecto de brillo */
+}
