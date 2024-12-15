@@ -27,4 +27,4 @@ ___________
 
 
 Correo 📧:
-[dayana.a.pacheco.b@gmail.com](mailto:dayana.a.pacheco.b@gmail.com)
+[arelyramirezmtz18@gmail.com](mailto:arelyramirezmtz18@gmail.com)
