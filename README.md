@@ -20,10 +20,11 @@ _________________
 ___________
 ### Vista previa
 <!-- Poner imagenes proyecto cuando este listo -->
-![Proyecto](icons/Imagen_portafolio.png)
+![Proyecto](assets/inicio.png)
 
 *Espero trabajemos juntos pronto* 😎
-<!-- Para poner links [] -->
+<!-- Para poner links [https://github.com/ely18mtz/Portafolio-de-Proyectos.git] -->
+
 
 Correo 📧:
 [dayana.a.pacheco.b@gmail.com](mailto:dayana.a.pacheco.b@gmail.com)
